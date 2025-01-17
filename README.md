@@ -1,5 +1,21 @@
 # IBM-Data-Eng-Project - ETL
 
+## About the Project
+
+This project is part of the **"Python Project for Data Engineering"** course. It automates an ETL pipeline to process financial data for the top 10 largest banks by market capitalization, converting values into multiple currencies and storing them for further analysis.
+
+---
+
+## Project Overview
+
+1. **Data Extraction:** Extracts a table of the top 10 banks by market capitalization from a webpage.  
+2. **Data Transformation:** Converts USD values into GBP, EUR, and INR using exchange rates from a CSV file.  
+3. **Save to CSV:** Saves the processed data into a local CSV file.  
+4. **Load to Database:** Loads the transformed data into an SQLite database.  
+5. **Run SQL Queries:** Executes queries to analyze the data, such as calculating averages and listing top banks.  
+6. **Logging:** Tracks the progress of each step in a log file for traceability.  
+
+
 ## Prerequisites
 
 This project requires **Python 3.11**. Please ensure it is installed before proceeding.
