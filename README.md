@@ -60,7 +60,7 @@ pip install -r requirements.txt
 ```
 
 This will ensure all the necessary libraries and packages for the project are installed.
-<br>
+<br><br>
 
 ## Execute the Program
 
