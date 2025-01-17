@@ -14,7 +14,7 @@ This project is part of the **"Python Project for Data Engineering"** course. It
 4. **Load to Database:** Loads the transformed data into an SQLite database.  
 5. **Run SQL Queries:** Executes queries to analyze the data, such as calculating averages and listing top banks.  
 6. **Logging:** Tracks the progress of each step in a log file for traceability.  
-
+<br>
 
 ## Prerequisites
 
@@ -26,7 +26,7 @@ This project requires **Python 3.11**. Please ensure it is installed before proc
 ```bash
 python --version
 ```
-
+<br>
 ## Setting Up a Virtual Environment (venv)
 
 Follow these steps to create and configure a virtual environment for the project:
@@ -60,7 +60,7 @@ pip install -r requirements.txt
 ```
 
 This will ensure all the necessary libraries and packages for the project are installed.
-
+<br>
 ## Execute the Program
 
 To execute the `banks_project.py` script, run the following command:
