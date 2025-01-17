@@ -16,6 +16,16 @@ This project is part of the **"Python Project for Data Engineering"** course. It
 6. **Logging:** Tracks the progress of each step in a log file for traceability.  
 <br>
 
+## Clone the Repository
+
+To get started with this project, clone the repository to your local machine:
+
+```bash
+git clone https://github.com/francomansur/IBM-Data-Eng-Project.git
+cd IBM-Data-Eng-Project
+```
+This will create a local copy of the repository and navigate you into the project directory.
+
 ## Prerequisites
 
 This project requires **Python 3.11**. Please ensure it is installed before proceeding.
