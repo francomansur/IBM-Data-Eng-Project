@@ -24,8 +24,7 @@ To get started with this project, clone the repository to your local machine:
 git clone https://github.com/francomansur/IBM-Data-Eng-Project.git
 cd IBM-Data-Eng-Project
 ```
-This will create a local copy of the repository and navigate you into the project directory.
-<br>
+This will create a local copy of the repository and navigate you into the project directory.<br><br>
 
 
 ## Prerequisites
