@@ -25,6 +25,8 @@ git clone https://github.com/francomansur/IBM-Data-Eng-Project.git
 cd IBM-Data-Eng-Project
 ```
 This will create a local copy of the repository and navigate you into the project directory.
+<br>
+
 
 ## Prerequisites
 
