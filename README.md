@@ -1,4 +1,4 @@
-# IBM-Data-Eng-Project
+# IBM-Data-Eng-Project - ETL
 
 ## Prerequisites
 
